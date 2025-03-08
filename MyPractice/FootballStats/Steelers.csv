@@ -1,0 +1,18 @@
+Game,Date,Opponent,Result,Points For,Points Against,Passing Yards,Rushing Yards,Total Yards,Turnovers
+1,2024-09-08,Baltimore Ravens,Win,24,17,280,120,400,1
+2,2024-09-15,Cincinnati Bengals,Loss,20,27,250,98,348,2
+3,2024-09-22,Cleveland Browns,Win,30,21,310,135,445,0
+4,2024-09-29,New England Patriots,Loss,17,20,230,102,332,1
+5,2024-10-06,Las Vegas Raiders,Win,27,14,290,140,430,1
+6,2024-10-13,Denver Broncos,Win,21,10,275,120,395,2
+7,2024-10-20,Green Bay Packers,Loss,16,23,220,80,300,3
+8,2024-10-27,Kansas City Chiefs,Loss,24,28,315,110,425,2
+9,2024-11-03,Buffalo Bills,Win,31,24,340,125,465,1
+10,2024-11-10,Miami Dolphins,Win,28,14,300,145,445,0
+11,2024-11-17,Philadelphia Eagles,Loss,21,26,290,110,400,2
+12,2024-11-24,Indianapolis Colts,Win,35,20,350,130,480,1
+13,2024-12-01,Los Angeles Chargers,Win,24,21,275,115,390,0
+14,2024-12-08,Jacksonville Jaguars,Loss,20,23,260,100,360,2
+15,2024-12-15,Tennessee Titans,Win,27,17,310,125,435,1
+16,2024-12-22,Seattle Seahawks,Loss,23,25,280,90,370,2
+17,2024-12-29,Cincinnati Bengals,Win,26,24,295,110,405,1
