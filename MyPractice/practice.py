@@ -12,3 +12,4 @@ while name != "exit":
         print("file was not found") 
         break   
     print(df.columns)
+    print(df.head())
