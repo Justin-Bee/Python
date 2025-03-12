@@ -20,4 +20,15 @@ for i in range(t):
 t = int(input())
 for i in range(t):
     n = int(input())
-    print(n+1)     
+    print(n+1)  
+
+
+# accept the count of test cases given in the the 1st line
+x = int(input())
+
+# run a for loop for each test case
+# then for each test case input an integer and output it's negative
+for item in range(x):
+    y = int(input())
+    n = (-1) * y
+    print(n)
