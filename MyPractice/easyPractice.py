@@ -25,7 +25,6 @@ for i in range(t):
 
 # accept the count of test cases given in the the 1st line
 x = int(input())
-
 # run a for loop for each test case
 # then for each test case input an integer and output it's negative
 for item in range(x):
