@@ -38,5 +38,32 @@ for i in range(t):
     # take input and output the join using +
     s = input()
     x = s + s
-    print(x)    
+    print(x)  
+
+
+t = int(input())
+for i in range(t):
+    N = int(input())
+    print(2*N)      
+
+t = int(input())
+for i in range(t):
+    #Accept 2 integers inputs
+    A, B = map(int,input().split())     
+    #Sum of inputs
+    S = A + B               
+    #Product of inputs
+    P = A * B               
+    #Print the desired output for each test case
+    print(S,P)
+
+t = int(input())
+for i in range(t): 
+    X, Y = map(int, input().split())
+    print(X*Y)  
+
+t = int(input())
+for i in range(t):
+    X = int(input())
+    print(X*10)           
 
