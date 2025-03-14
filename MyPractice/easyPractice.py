@@ -31,3 +31,12 @@ for item in range(x):
     y = int(input())
     n = (-1) * y
     print(n)
+
+
+t = int(input())
+for i in range(t):
+    # take input and output the join using +
+    s = input()
+    x = s + s
+    print(x)    
+
