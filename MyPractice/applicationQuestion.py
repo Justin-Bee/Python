@@ -1,3 +1,5 @@
+#Application question for Close.com
+
 import hashlib
 import json
 import requests
@@ -11,7 +13,10 @@ response = requests.get(url)
 
 # Print the response
 print("Status Code:", response.status_code)
-print("Response Text:", response.text)
+# Extract key from response
+response_data = response.json()
+key = response_data.get("key", "")
+print("Key:", key)
 
 # Given traits
 traits = [
@@ -24,7 +29,7 @@ traits = [
 ]
 
 # Key provided in response
-key = "Close-b3a93523"
+#key = "Close-b3a93523"
 
 # Function to hash each trait correctly
 def hash_trait(trait, key):
