@@ -65,5 +65,15 @@ for i in range(t):
 t = int(input())
 for i in range(t):
     X = int(input())
-    print(X*10)           
+    print(X*10)   
+
+t = int(input())
+output = 0
+for i in range(t):
+    X, Y = map(int, input().split())
+    if (Y <= 10):
+     output = 10*X + 90 * Y 
+    else: 
+     output = 10*X + 90 * Y
+    print(output)            
 
